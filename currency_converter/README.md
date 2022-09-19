@@ -1,3 +1,3 @@
-#Currency convertor created in Python by using fixer API - https://fixer.io/
+Currency converter created in Python by using fixer API - [Fixer](https://fixer.io/)
 
-All the currencies commands are available with capital letters E.g. USD, EUR, GBP, PLN, QAR...
+All the currencies commands are available with capital letters E.g.***USD, EUR, GBP, PLN, QAR...***
